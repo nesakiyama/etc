@@ -361,5 +361,215 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1,サンテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-
-
+#EXTINF:-1,11
+https://ads.its-newid.net/api/manifest.m3u8
+#EXTINF:-1,2アニメ1
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime1hls-rakutenjp/playlist.m3u8
+#EXTINF:-1,3アニメ2
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime2hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,4アニメ3
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime3cmafhls-rakutenjp/playlist.m3u8
+#EXTINF:-1,5アニメ4
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime4-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,66
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-cplusicmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,77
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-japanese-baseball-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,8日テレNEWS24
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,99
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nikkatsu-movies-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,1010
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmovie3hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,1111
+https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+#EXTINF:-1,1212
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime6-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,1313
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-babyshark-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,1414
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-worldcupsa-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,104日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,105FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,106MBSニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,107ウェザーニュース
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1,108TOKYO MX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,109共同通信ニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,110日テレNEWSセレクト
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,111オリコンニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+#EXTINF:-1,112STOCK VOICE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,113NEWS WORLD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+#EXTINF:-1,114Bloomberg
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1,115euro news
+https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+#EXTINF:-1,116QVC
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+#EXTINF:-1,117GSTV
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+#EXTINF:-1,123GOLF
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
+#EXTINF:-1,124日テレプロレス
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1,126スカイＡ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-skyacmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,128刺激ストロングSPORTS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
+#EXTINF:-1,130GAORA ZERO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,133FUEL TV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,142手塚
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,146しまじろうチャンネル
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,150キッズ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,153アジアドラマ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-asiandramahlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,156KPOP
+https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165&apikey=dc76a93e-178d-5156-d492-c01a0429525f&auth=3ba56277-fd5f03a0-8b874b17-894d93c7
+#EXTINF:-1,170ムビドラTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,180HISTORY CH
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,186鉄道・旅
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,188九州沖縄街ネタ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,192PECO TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,196ぷれいば
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,198釣り
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,204将棋・囲碁ライト
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,205将棋
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shogicmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,206麻雀
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
+#EXTINF:-1,207パチスロ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,218エンタメ～テレDEEP
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,227NOW 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+#EXTINF:-1,228NOW 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+#EXTINF:-1,229NOW 90s00s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+#EXTINF:-1,230NOW ROCK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+#EXTINF:-1,232演歌・歌謡
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,239セクシーエンタメ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,240おとなの歓楽街
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,241アイドルグラビア
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,242刺激ストロング
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,243映画R15+
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1,なつかしアニメ00's
+https://ds-linear-abematv.akamaized.net/preview/channel/00s-anime-1/playlist.m3u8
+#EXTINF:-1,なつかしアニメ80's
+https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8
+#EXTINF:-1,なつかしアニメ90's
+https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8
+#EXTINF:-1,ABEMA アニメチャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8
+#EXTINF:-1,ABEMA アニメチャンネル3
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-3/playlist.m3u8
+#EXTINF:-1,ABEMA アニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
+#EXTINF:-1,ABEMA NEWSチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
+#EXTINF:-1,ABEMA SPECIALチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8
+#EXTINF:-1,アニメLIVEチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
+#EXTINF:-1,韓国ドラマチャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama-2/playlist.m3u8
+#EXTINF:-1,韓国ドラマチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama/playlist.m3u8
+#EXTINF:-1,韓国時代劇
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-historical/playlist.m3u8
+#EXTINF:-1,韓国ラブコメディ
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-love-comedy/playlist.m3u8
+#EXTINF:-1,韓国ラブロマンス
+https://ds-linear-abematv.akamaized.net/preview/channel/asia-loveromance/playlist.m3u8
+#EXTINF:-1,あたしンちチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8
+#EXTINF:-1,BOATRACEチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
+#EXTINF:-1,ちびまる子ちゃんチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/chibimaruko/playlist.m3u8
+#EXTINF:-1,中国ドラマチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/chinese-drama/playlist.m3u8
+#EXTINF:-1,CMチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
+#EXTINF:-1,名探偵コナンチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/conan/playlist.m3u8
+#EXTINF:-1,日常・青春アニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/dailylife-anime/playlist.m3u8
+#EXTINF:-1,ドラマ映画チャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
+#EXTINF:-1,ドラマ映画チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/drama/playlist.m3u8
+#EXTINF:-1,ファミリーアニメ
+https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
+#EXTINF:-1,ファミリーアニメ２
+https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.m3u8
+#EXTINF:-1,格闘チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
+#EXTINF:-1,HIPHOPチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/hiphop/playlist.m3u8
+#EXTINF:-1,異世界・ファンタジーアニメ2チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8
+#EXTINF:-1,異世界・ファンタジーアニメ3チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
+#EXTINF:-1,異世界・ファンタジーアニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8
+#EXTINF:-1,K WORLDチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/k-world/playlist.m3u8
+#EXTINF:-1,競輪・オートレースチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+#EXTINF:-1,深夜アニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlist.m3u8
+#EXTINF:-1,ラブコメアニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/lovecomedy-anime/playlist.m3u8
+#EXTINF:-1,麻雀チャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/mahjong-2/playlist.m3u8
+#EXTINF:-1,麻雀チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/mahjong/playlist.m3u8
+#EXTINF:-1,MOTOR SPORTチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
+#EXTINF:-1,ABEMA NEWS会見チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8
+#EXTINF:-1,ONE PIECEチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/onepiece/playlist.m3u8
+#EXTINF:-1,アニメ ポケットモンスターチャンネル1
+https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-1/playlist.m3u8
+#EXTINF:-1,アニメ ポケットモンスターチャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-2/playlist.m3u8
+#EXTINF:-1,将棋チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8
+#EXTINF:-1,アニメSPECIALチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
+#EXTINF:-1,ABEMA SPECIAL 2チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8
+#EXTINF:-1,SPORTSチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
