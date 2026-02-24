@@ -574,141 +574,132 @@ https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3
 #EXTINF:-1,SPORTSチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
 #EXTINF:-1,ABC
-https://nl.utako.moe/abc/index.m3u8
-#EXTINF:-1,Animax
-https://nl.utako.moe/Animax/index.m3u8
+https://nl.utako.moe/abc/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AT-X
-https://nl.utako.moe/AT-X/index.m3u8
+https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BS 10 Premium
-https://nl.utako.moe/bs10_star/index.m3u8
+https://nl.utako.moe/bs10_star/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BS11
-https://nl.utako.moe/BS11/index.m3u8
+https://nl.utako.moe/BS11/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BS Asahi
-https://nl.utako.moe/bsasahi/index.m3u8
+https://nl.utako.moe/bsasahi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BS Fuji
-https://nl.utako.moe/bsfuji/index.m3u8
+https://nl.utako.moe/bsfuji/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BS NTV
-https://nl.utako.moe/bsntv/index.m3u8
+https://nl.utako.moe/bsntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NHK BS4K
-https://nl.utako.moe/bsp4k/index.m3u8
+https://nl.utako.moe/bsp4k/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BS TBS
-https://nl.utako.moe/bstbs/index.m3u8
+https://nl.utako.moe/bstbs/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BS TV Tokyo
-https://nl.utako.moe/bstvtokyo/index.m3u8
+https://nl.utako.moe/bstvtokyo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cartoon Network
-https://nl.utako.moe/cartoon_network/index.m3u8
+https://nl.utako.moe/cartoon_network/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Disney Channel
-https://nl.utako.moe/disneychan/index.m3u8
+https://nl.utako.moe/disneychan/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dlife
-https://nl.utako.moe/dlife/index.m3u8
+https://nl.utako.moe/dlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Entermei Tele
-https://nl.utako.moe/entermei_tele/index.m3u8
+https://nl.utako.moe/entermei_tele/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Asahi Channel 1
-https://nl.utako.moe/ex_ch1/index.m3u8
+https://nl.utako.moe/ex_ch1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Asahi Channel 2
-https://nl.utako.moe/ex_ch2/index.m3u8
+https://nl.utako.moe/ex_ch2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Family Gekijyo
-https://nl.utako.moe/familygeki/index.m3u8
+https://nl.utako.moe/familygeki/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fighting TV Samurai
-https://nl.utako.moe/fighting_tv/index.m3u8
+https://nl.utako.moe/fighting_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fuji TV NEXT
-https://nl.utako.moe/fuji_next/index.m3u8
+https://nl.utako.moe/fuji_next/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fuji TV ONE
-https://nl.utako.moe/fuji_one/index.m3u8
+https://nl.utako.moe/fuji_one/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fuji TV
-https://nl.utako.moe/Fuji_TV/index.m3u8
+https://nl.utako.moe/Fuji_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fuji TV TWO
-https://nl.utako.moe/fuji_two/index.m3u8
+https://nl.utako.moe/fuji_two/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Gaora Sports
-https://nl.utako.moe/gaora/index.m3u8
+https://nl.utako.moe/gaora/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel Ginga
-https://nl.utako.moe/gingach/index.m3u8
+https://nl.utako.moe/gingach/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Golf Network
-https://nl.utako.moe/golf_network/index.m3u8
+https://nl.utako.moe/golf_network/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Green Channel
-https://nl.utako.moe/green/index.m3u8
+https://nl.utako.moe/green/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Home Drama Channel
-https://nl.utako.moe/homedrama/index.m3u8
+https://nl.utako.moe/homedrama/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JSport 1
-https://nl.utako.moe/js1/index.m3u8
+https://nl.utako.moe/js1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JSport 2
-https://nl.utako.moe/js2/index.m3u8
+https://nl.utako.moe/js2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JSport 3
-https://nl.utako.moe/js3/index.m3u8
+https://nl.utako.moe/js3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JSport 4
-https://nl.utako.moe/js4/index.m3u8
+https://nl.utako.moe/js4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Kansai TV
-https://nl.utako.moe/kansaitv/index.m3u8
+https://nl.utako.moe/kansaitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Kayo Pops
-https://nl.utako.moe/kayopops/index.m3u8
+https://nl.utako.moe/kayopops/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KBS
-https://nl.utako.moe/kbs/index.m3u8
+https://nl.utako.moe/kbs/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Kids Staton
-https://nl.utako.moe/kids_station/index.m3u8
+https://nl.utako.moe/kids_station/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MBS
-https://nl.utako.moe/mbs/index.m3u8
-#EXTINF:-1,Mnet
-https://nl.utako.moe/mnet/index.m3u8
+https://nl.utako.moe/mbs/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Mondo TV
-https://nl.utako.moe/mondo/index.m3u8
+https://nl.utako.moe/mondo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MTV
-https://nl.utako.moe/mtv/index.m3u8
+https://nl.utako.moe/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Music ON TV
-https://nl.utako.moe/musicon/index.m3u8
+https://nl.utako.moe/musicon/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Neco Channel
-https://nl.utako.moe/neco/index.m3u8
+https://nl.utako.moe/neco/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NHK BS
-https://nl.utako.moe/NHK_BS/index.m3u8
+https://nl.utako.moe/NHK_BS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NHK E
-https://nl.utako.moe/NHK_E/index.m3u8
+https://nl.utako.moe/NHK_E/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NHK G
-https://nl.utako.moe/NHK_G/index.m3u8
+https://nl.utako.moe/NHK_G/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nihon Eiga Senmon
-https://nl.utako.moe/nihoneiga/index.m3u8
+https://nl.utako.moe/nihoneiga/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NTV
-https://nl.utako.moe/Nippon_TV/index.m3u8
+https://nl.utako.moe/Nippon_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nittele G+
-https://nl.utako.moe/ntvgplus/index.m3u8
+https://nl.utako.moe/ntvgplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Pigoo (NSFW)
-https://nl.utako.moe/pigoo/index.m3u8
+https://nl.utako.moe/pigoo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky A
-https://nl.utako.moe/skya/index.m3u8
+https://nl.utako.moe/skya/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Space Shower TV
-https://nl.utako.moe/spaceshower/index.m3u8
+https://nl.utako.moe/spaceshower/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sport Live Plus
-https://nl.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1,SUN
-https://nl.utako.moe/suntv/index.m3u8
+https://nl.utako.moe/sport_live_plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tabi Channel
-https://nl.utako.moe/tabi/index.m3u8
+https://nl.utako.moe/tabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TBS
-https://nl.utako.moe/TBS/index.m3u8
+https://nl.utako.moe/TBS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TBS Channel 1
-https://nl.utako.moe/tbsch1/index.m3u8
+https://nl.utako.moe/tbsch1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TBS Channel 2
-https://nl.utako.moe/tbsch2/index.m3u8
+https://nl.utako.moe/tbsch2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,The Cinema
-https://nl.utako.moe/the_cinema/index.m3u8
+https://nl.utako.moe/the_cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Toei Channel
-https://nl.utako.moe/toei/index.m3u8
+https://nl.utako.moe/toei/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TOKYO MX1
-https://nl.utako.moe/Tokyo_MX1/index.m3u8
+https://nl.utako.moe/Tokyo_MX1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TOKYO MX2
-https://nl.utako.moe/Tokyo_MX2/index.m3u8
+https://nl.utako.moe/Tokyo_MX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Asahi
-https://nl.utako.moe/TV_Asahi/index.m3u8
+https://nl.utako.moe/TV_Asahi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Tokyo
-https://nl.utako.moe/TV_Tokyo/index.m3u8
+https://nl.utako.moe/TV_Tokyo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Osaka
-https://nl.utako.moe/tvo/index.m3u8
-#EXTINF:-1,V Paradise (NSFW)
-https://nl.utako.moe/v_paradise/index.m3u8
+https://nl.utako.moe/tvo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,WOWOW Cinema
-https://nl.utako.moe/wcinema/index.m3u8
+https://nl.utako.moe/wcinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,WOWOW Live
-https://nl.utako.moe/wlive/index.m3u8
+https://nl.utako.moe/wlive/tracks-v1a1/mono.m3u8
 #EXTINF:-1,WOWOW Prime
-https://nl.utako.moe/wprime/index.m3u8
+https://nl.utako.moe/wprime/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ytv
-https://nl.utako.moe/ytv/index.m3u8
-
+https://nl.utako.moe/ytv/tracks-v1a1/mono.m3u8
