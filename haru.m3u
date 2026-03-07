@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,台視
+rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1,Discovery
 http://118.69.178.246:9394/stream/99.m3u8
 #EXTINF:-1,National Geographic
@@ -705,4 +707,5 @@ https://nl.utako.moe/wprime/tracks-v1a1/mono.m3u8
 https://nl.utako.moe/ytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,V paradise
 https://nl.utako.moe/v_paradise/tracks-v1a1/mono.m3u8
+
 
