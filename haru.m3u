@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,FOX SPORTS 2 HD
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1,FOX SPORTS 2 SD
+https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1,台視
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1,Discovery
