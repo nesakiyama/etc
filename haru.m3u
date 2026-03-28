@@ -6,7 +6,7 @@ https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1,台視
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1,Discovery
-http://118.68.245.239:9394/stream/99.m3u8
+http://42.117.22.36:9394/stream/99.m3u8
 #EXTINF:-1,National Geographic
 http://118.68.245.239:9394/stream/75.m3u8
 #EXTINF:-1,Animal Planet
