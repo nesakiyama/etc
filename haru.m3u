@@ -217,7 +217,7 @@ http://118.70.51.110:9394/stream/158.m3u8
 http://118.70.51.110:9394/stream/85.m3u8
 #EXTINF:-1,旅ch
 http://118.70.51.110:9394/stream/138.m3u8
-#EXTINF:-1,NHK BSP4K
+#EXTINF:-1,NHK BSP_4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=1-15
 #EXTINF:-1,BS日テレ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=1-15
