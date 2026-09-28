@@ -1,4 +1,34 @@
 EXTM3U
+#EXTINF:-1,NHK G
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1,日テレ
+https://ntv1.mov3.co/hls/ntv.m3u8
+#EXTINF:-1,TV朝日
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1,TBS
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1,TV東京
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1,フジテレビ
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1,TOKYO MX
+http://mov3.co/tokyomx/
+#EXTINF:-1,GAKI NO TSUKAI
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1,NHK
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1,NHK
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1,NHK
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1,NHK
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1,NHK
+http://170.83.16.50/NHK_WORLD/index.m3u8
+#EXTINF:-1,NHK
+https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
+#EXTINF:-1,NHK
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1,FOX SPORTS 2 SD
