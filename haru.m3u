@@ -2,7 +2,7 @@ EXTM3U
 #EXTINF:-1,NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1,日テレ
-https://ntv1.mov3.co/hls/ntv.m3u8
+https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1,TV朝日
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1,TBS
