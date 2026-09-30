@@ -1,8 +1,8 @@
 EXTM3U
 #EXTINF:-1,NHK BS
-http://125.227.210.55:8210/VideoInput/Play.ts
+http://125.227.210.55:8210/VideoInput/play.ts
 #EXTINF:-1,NHK BS4K
-http://125.227.210.55:8215/VideoInput/Play.ts
+http://125.227.210.55:8215/VideoInput/play.ts
 #EXTINF:-1,NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1,日テレ
