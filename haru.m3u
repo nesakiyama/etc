@@ -702,13 +702,13 @@ https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hl
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" ,MTV
 https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="kayopops.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png" ,Kayo Pops
-https://haru.charandom.blog/stream/jp/gaora_sports/stream-output.m3u8?mode=hls kayopops/
+https://haru.charandom.blog/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png" ,Kids Station
-https://haru.charandom.blog/stream/jp/gaora_sports/stream-output.m3u8?mode=hls kids_station/
+https://haru.charandom.blog/stream/jp/kids_station/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="disneychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png" ,Disney Channel
-https://haru.charandom.blog/stream/jp/gaora_sports/stream-output.m3u8?mode=hls disneychan/
+https://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="cartoonnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" ,Cartoon Network Japan
-https://haru.charandom.blog/stream/jp/cartoon_network_japan/stream-output.m3u8?mode=hls cartoon_network/
+https://haru.charandom.blog/stream/jp/cartoon_network_japan/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="nittelegplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" ,NTV G+
 https://haru.charandom.blog/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="familygekijyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-157-400x400.png" ,Family Gekijo
