@@ -1017,3 +1017,20 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&amp;isp=
 #EXTINF:-1 tvg-logo="https://jpnet.live/channel/89.png" group-title="東映チャンネル",東映チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800462&amp;sign=980c66004638e5f8200564e18a71448ca411a74f216f6506c27c969c94257c69
 
+#EXTINF:-1 tvg-logo="https://jpnet.live/channel/22.png" group-title="ディスカバリーチャンネル",ディスカバリーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800447&amp;sign=9f0147bfecb89ba1f59245adf6c434e363c0cce2a00074ab2efcfd6c8b73c4e1
+#EXTINF:-1 tvg-logo="https://jpnet.live/channel/22.png" group-title="ディスカバリーチャンネル",ディスカバリーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940836&amp;sign=32fbf5f2f71d4bde65177d373b14690d097ec09e7f9a0b4037515f9b4253096f
+#EXTINF:-1 tvg-logo="https://jpnet.live/channel/21.png" group-title="ヒストリーチャンネル",ヒストリーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&amp;17&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732570029&amp;sign=b547bbdb0f348dd2fc6e9360d48442d014cb2a2547e07d55a7f2c2699373a92b&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1732076574&amp;sign=0bf7b46782270f974b488914221e6f76433b23ada4dd74c612
+#EXTINF:-1 tvg-logo="https://jpnet.live/channel/21.png" group-title="ヒストリーチャンネル",ヒストリーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940834&amp;sign=8ca60b5e7e8de603e736879b8548d9cbbc3964bb32aaeaa1ebd95ae4d195b540
+#EXTINF:-1 tvg-logo="https://jpnet.live/channel/10.png" group-title="TBS NEWS",TBS NEWS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&amp;17&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732570029&amp;sign=b547bbdb0f348dd2fc6e9360d48442d014cb2a2547e07d55a7f2c2699373a92b&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1732076600&amp;sign=2f649499319e4e7790d66584229dc9aa9eabfbcb7abd7fa13c
+#EXTINF:-1 tvg-logo="https://jpnet.live/channel/10.png" group-title="TBS NEWS",TBS NEWS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940832&amp;sign=04c8c049cce5177e41640f8155e732db9fb36cd0712d0413583450c7fc634d5a
+#EXTINF:-1 tvg-logo="https://jpnet.live/channel/23.png" group-title="旅チャンネル",旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800477&amp;sign=d48497553c383de6f0de80fe750175ff6d54f384f21f56c84ec28b639dbbce3a
+#EXTINF:-1 tvg-logo="https://jpnet.live/channel/23.png" group-title="チャンネル",旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940830&amp;sign=d781c8747c49fd71933f23d3e7daabd40b919f78738830fbda1356bab6fa20e2
+
