@@ -1,4 +1,3 @@
-
 EXTM3U
 #EXTINF:-1,NHK BS
 http://125.227.210.55:8210/VideoInput/play.ts
@@ -251,25 +250,25 @@ http://118.69.27.222:9394/stream/85.m3u8
 #EXTINF:-1,旅_ch
 http://118.69.27.222:9394/stream/138.m3u8
 #EXTINF:-1,NHK BSP_4K_bs01
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772939&amp;sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,BS日テレ_bs02
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,BS朝日_bs03
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772928&amp;sign=4b595c58b6b201a37436d420d0e92df591cbf1ff2e479f9495aef577b976d00d
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,BS-TBS_bs04
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772923&amp;sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,BSテレ東_bs05
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772923&amp;sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,BSフジ_bs06
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772923&amp;sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,WOWOW C_bs07
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772923&amp;sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,スターチャンネル1_bs08
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772923&amp;sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,NHK BS_bs11
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772923&amp;sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,WOWOW P_bs12
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772923&amp;sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,グリーン チャンネル_bs14
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800412&amp;sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
 #EXTINF:-1,BSアニマックス_bs15
@@ -292,7 +291,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&amp;isp=
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800406&amp;sign=8d452d1ef82abc40d3f4068501cca7c137529aa63213f4576bf4d09d9191a6dc
 #EXTINF:-1,スペースシャワーTV_bs26
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800406&amp;sign=8d452d1ef82abc40d3f4068501cca7c137529aa63213f4576bf4d09d9191a6dc
-#EXTINF:-1,BS松竹東急_bs31
+#EXTINF:-1,J COM BS_bs31
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772934&amp;sign=80fb76f41823ffc0c2d5a96f5c8b579d86bee19675794d7534dc344257b124ff
 #EXTINF:-1,スカイA_cs01
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800439&amp;sign=5791f21774050cfb3a727363e7e4988f034d467027602b3325583c6d25811c36
@@ -367,7 +366,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&amp;isp=
 #EXTINF:-1,テレ朝_gd06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772975&amp;sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
 #EXTINF:-1,テレ東_gd07
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&amp;isp=10&amp;bind=0&amp;uin=201337&amp;playseek=0&amp;timestamp=1731880960&amp;sign=6c38a87b1200a510db9781325f615bdd0509c8be5bd3ea38e91cbd697d0e8fbf
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772975&amp;sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
 #EXTINF:-1,TOKYO MX1_gd08
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772970&amp;sign=498184efda0887f8d4bf7c9db688072421a95f0013c34712505ac434f7245db5
 
@@ -376,7 +375,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&amp;isp=
 #EXTINF:-1,ABC_gx02
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772956&amp;sign=bcebbbccbdf23707540bad547ce067b66856e87b597f5c9ad8133ba372f87bb7
 #EXTINF:-1,関西TV_gx03
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&amp;isp=11&amp;bind=0&amp;uin=207623&amp;playseek=0&amp;timestamp=1738175316&amp;sign=183435f882f5bae4015b5d4809a4e199b38834e9629dd0717e859c20bf497d1b
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772956&amp;sign=bcebbbccbdf23707540bad547ce067b66856e87b597f5c9ad8133ba372f87bb7
 #EXTINF:-1,YTV_gx04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772946&amp;sign=ef60f10357d337fb179256b57376d388a68f5c98bd24e701e6abdb4133ee34df
 #EXTINF:-1,テレビ大阪_gx05
