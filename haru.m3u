@@ -272,9 +272,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&amp;isp=
 #EXTINF:-1,グリーン チャンネル_bs14
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800412&amp;sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
 #EXTINF:-1,BSアニマックス_bs15
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800395&amp;sign=a41add5731add0cddf2032da4cd43cbb75d59ea71370e537a39b1904b9982d6e
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800412&amp;sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
 #EXTINF:-1,JSPORTS 1_bs18
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800421&amp;sign=31177b2b1c35a9feb3074f82e6e509d7d7ac0e9d459f0ffc535a0574459fc207
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800412&amp;sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
 #EXTINF:-1,JSPORTS 2_bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800425&amp;sign=6559f2412e2301b577da91428eb9bd01a139608aaa6f81136b20ddb69c028f0d
 #EXTINF:-1,WOWOW L_bs20
@@ -282,7 +282,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&amp;isp=
 #EXTINF:-1,JSPORTS 3_bs21
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800428&amp;sign=608174b9f820ce21236167e18efb1b93b2847c011249fa16bed5c06a539e89b4
 #EXTINF:-1,JSPORTS 4_bs22
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800425&amp;sign=6559f2412e2301b577da91428eb9bd01a139608aaa6f81136b20ddb69c028f0d
 #EXTINF:-1,日本映画専門チャンネル_bs23
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800399&amp;sign=233a4b7e4ab36d69c5d8780cf167110b475daae611d2c54b7c381c263cd4054f
 #EXTINF:-1,ディズニーチャンネル_bs24
@@ -332,9 +332,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&amp;isp=
 #EXTINF:-1,LaLaTV_cs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940816&amp;sign=3b73db7777e22d8cb5316418278f9ae2533cf832ea8fbe20f6a66b6fa8d6bb95
 #EXTINF:-1,ファミリー劇場_cs20
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800470&amp;sign=e09981ade51b2c4d10c78a751a0f5567539d1fc9c580f546b0db93c25405b1ff
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940816&amp;sign=3b73db7777e22d8cb5316418278f9ae2533cf832ea8fbe20f6a66b6fa8d6bb95
 #EXTINF:-1,MONDO TV_cs21
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940810&amp;sign=a5a8c210bac089b92c1627abdf6b4e8302b4ed79f97fd4b3cdd64b0424997f18
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940816&amp;sign=3b73db7777e22d8cb5316418278f9ae2533cf832ea8fbe20f6a66b6fa8d6bb95
 #EXTINF:-1,衛星劇場_cs22
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732800459&amp;sign=e96106aae86f370259829e1f5b338ee19ab81be2daac194f8bd3dd6f567dd68d
 #EXTINF:-1,ディズニー Jr_cs23
