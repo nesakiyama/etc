@@ -1,9 +1,9 @@
 EXTM3U
 
 #EXTINF:-1,NHK G 東京_gd01
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940791&amp;sign=cc41d45217b98efac2f256e4da0e95b6f95a7711b6611bf84fa1db33f1c713e6
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772996&amp;sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
 #EXTINF:-1,NHK E_gd02
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732940791&amp;sign=cc41d45217b98efac2f256e4da0e95b6f95a7711b6611bf84fa1db33f1c713e6
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772996&amp;sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
 #EXTINF:-1,日テレ_gd03
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772996&amp;sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
 #EXTINF:-1,TBS_gd04
