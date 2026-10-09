@@ -13,32 +13,43 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&amp;isp=
 
 
 #EXTINF:-1,NHK G 東京_gd01
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772996&amp;sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772982&amp;sign=f8e3e33db61c6083148cfcc483c5b7a3cb8e9a78062163d87205a7c3c834fad6
+
 #EXTINF:-1,NHK E_gd02
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772996&amp;sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772982&amp;sign=f8e3e33db61c6083148cfcc483c5b7a3cb8e9a78062163d87205a7c3c834fad6
+
 #EXTINF:-1,日テレ_gd03
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772996&amp;sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772982&amp;sign=f8e3e33db61c6083148cfcc483c5b7a3cb8e9a78062163d87205a7c3c834fad6
+
 #EXTINF:-1,TBS_gd04
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772990&amp;sign=8ecc3509f470e277a9cf0a58cb158c3d8b78a7ebd6867d4b4513bdf2d59ac881
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772982&amp;sign=f8e3e33db61c6083148cfcc483c5b7a3cb8e9a78062163d87205a7c3c834fad6
+
 #EXTINF:-1,フジテレビ_gd05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772982&amp;sign=f8e3e33db61c6083148cfcc483c5b7a3cb8e9a78062163d87205a7c3c834fad6
 #EXTINF:-1,テレ朝_gd06
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772975&amp;sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772982&amp;sign=f8e3e33db61c6083148cfcc483c5b7a3cb8e9a78062163d87205a7c3c834fad6
+
 #EXTINF:-1,テレ東_gd07
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772975&amp;sign=4ce4ab2111cc1a2e422e2f9c63f9b5995262c3c5c6d6fc5f485e04b0d0321795
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772982&amp;sign=f8e3e33db61c6083148cfcc483c5b7a3cb8e9a78062163d87205a7c3c834fad6
+
 #EXTINF:-1,TOKYO MX1_gd08
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772996&amp;sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772982&amp;sign=f8e3e33db61c6083148cfcc483c5b7a3cb8e9a78062163d87205a7c3c834fad6
+
+#EXTINF:-1,NHK BS_bs11
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
+
+#EXTINF:-1,NHK BSP_4K_bs01
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
+
+
+
+
 #EXTINF:-1,WOWOW P_bs12
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,WOWOW C_bs07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 #EXTINF:-1,WOWOW L_bs20
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
-#EXTINF:-1,NHK BS_bs11
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
-
-#EXTINF:-1,NHK BSP_4K_bs01
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772931&amp;sign=8c4b897d0c875bfa9158dff14c2810c21952614e18d606827c75f75aaff696cc
 
 #EXTINF:-1,NHK BS
 http://125.227.210.55:8210/VideoInput/play.ts
