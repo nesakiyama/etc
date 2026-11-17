@@ -85,6 +85,9 @@ http://170.83.16.50/NHK_WORLD/index.m3u8
 #EXTINF:-1,NHK
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
 #EXTINF:-1,NHK
+https://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+
+#EXTINF:-1,NHK
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD
 https://tvpass.org/live/FoxSports2/hd
