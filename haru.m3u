@@ -37,11 +37,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&amp;isp=
 
 #EXTINF:-1,NHK BS_bs11
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772961&amp;sign=778fe2a2b7985bd9b78fbd14e772aa48ffed923bb310cf5d0490ff8639822fc3
+#EXTINF:-1,NHK BS_bs11
+http://103.255.250.188:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying
+
 
 #EXTINF:-1,NHK BSP_4K_bs01
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&amp;isp=7&amp;bind=0&amp;uin=201829&amp;playseek=0&amp;timestamp=1732772961&amp;sign=778fe2a2b7985bd9b78fbd14e772aa48ffed923bb310cf5d0490ff8639822fc3
 
-
+#EXTINF:-1,NHK BSP_4K_bs01
+http://103.255.250.188:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying
 
 
 #EXTINF:-1,WOWOW P_bs12
